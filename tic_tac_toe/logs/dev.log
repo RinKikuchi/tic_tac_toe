@@ -82,3 +82,105 @@ State: %{}
 11:25:36.805 [info] The game agent started.
 11:25:36.809 [info] The console started.
 11:25:36.815 [debug] state: %{}
+11:36:37.931 [info] The game agent started.
+11:36:37.934 [info] The console started.
+11:36:37.935 [debug] state: %{}
+11:50:37.824 [info] The game agent started.
+11:50:37.826 [info] The console started.
+11:50:37.831 [debug] state: %{}
+11:51:13.010 [info] The game agent started.
+11:51:13.013 [info] The console started.
+11:51:13.017 [debug] state: %{}
+12:02:45.479 [info] The game agent started.
+12:02:45.482 [info] The console started.
+12:02:45.487 [debug] state: %{mode: :human_vscomputer}
+12:02:45.490 [error] GenServer TicTacToe.Console terminating
+** (CaseClauseError) no case clause matching: {:human_vscomputer, :o}
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:31: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{mode: :human_vscomputer}
+12:02:45.502 [info] The console started.
+12:02:45.502 [debug] state: %{mode: :human_vscomputer}
+12:02:45.502 [error] GenServer TicTacToe.Console terminating
+** (CaseClauseError) no case clause matching: {:human_vscomputer, :o}
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:31: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{mode: :human_vscomputer}
+12:02:45.502 [info] The console started.
+12:02:45.502 [debug] state: %{mode: :human_vscomputer}
+12:02:45.503 [error] GenServer TicTacToe.Console terminating
+** (CaseClauseError) no case clause matching: {:human_vscomputer, :o}
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:31: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{mode: :human_vscomputer}
+12:02:45.503 [info] The console started.
+12:02:45.503 [debug] state: %{mode: :human_vscomputer}
+12:02:45.504 [error] GenServer TicTacToe.Console terminating
+** (CaseClauseError) no case clause matching: {:human_vscomputer, :o}
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:31: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{mode: :human_vscomputer}
+12:02:45.504 [info] Application tic_tac_toe exited: shutdown
+12:03:19.013 [info] The game agent started.
+12:03:19.015 [info] The console started.
+12:03:19.023 [debug] state: %{mode: :human_vs_human}
+12:03:40.296 [info] The game agent started.
+12:03:40.298 [info] The console started.
+12:03:40.304 [debug] state: %{mode: :human_vscomputer}
+12:03:40.308 [error] GenServer TicTacToe.Console terminating
+** (CaseClauseError) no case clause matching: {:human_vscomputer, :o}
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:31: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{mode: :human_vscomputer}
+12:03:40.319 [info] The console started.
+12:03:40.319 [debug] state: %{mode: :human_vscomputer}
+12:03:40.319 [error] GenServer TicTacToe.Console terminating
+** (CaseClauseError) no case clause matching: {:human_vscomputer, :o}
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:31: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{mode: :human_vscomputer}
+12:03:40.320 [info] The console started.
+12:03:40.320 [debug] state: %{mode: :human_vscomputer}
+12:03:40.320 [error] GenServer TicTacToe.Console terminating
+** (CaseClauseError) no case clause matching: {:human_vscomputer, :o}
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:31: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{mode: :human_vscomputer}
+12:03:40.321 [info] The console started.
+12:03:40.321 [debug] state: %{mode: :human_vscomputer}
+12:03:40.321 [error] GenServer TicTacToe.Console terminating
+** (CaseClauseError) no case clause matching: {:human_vscomputer, :o}
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:31: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{mode: :human_vscomputer}
+12:03:40.322 [info] Application tic_tac_toe exited: shutdown
+12:04:54.524 [info] The game agent started.
+12:04:54.527 [info] The console started.
+12:04:54.531 [debug] state: %{mode: :human_vs_computer}
+12:05:36.247 [info] The game agent started.
+12:05:36.250 [info] The console started.
+12:05:36.256 [debug] state: %{mode: :computer_vs_computer}
