@@ -8,3 +8,77 @@
 10:26:45.738 [info] The game agent started.
 10:26:45.741 [info] The console started.
 10:26:45.748 [debug] state: %{}
+10:52:44.015 [info] The game agent started.
+10:52:44.020 [info] The console started.
+10:52:44.028 [debug] state: %{}
+10:57:35.670 [info] The game agent started.
+10:57:35.674 [info] The console started.
+10:57:35.680 [debug] state: %{}
+10:57:35.796 [error] GenServer TicTacToe.Console terminating
+** (UndefinedFunctionError) function TicTacToe.Game.take_last_error/0 is undefined or private
+    (tic_tac_toe 0.1.0) TicTacToe.Game.take_last_error()
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:44: TicTacToe.Console.get_prompt/0
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:25: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{}
+10:57:35.806 [info] The console started.
+10:57:35.806 [debug] state: %{}
+10:57:35.815 [error] GenServer TicTacToe.Console terminating
+** (UndefinedFunctionError) function TicTacToe.Game.take_last_error/0 is undefined or private
+    (tic_tac_toe 0.1.0) TicTacToe.Game.take_last_error()
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:44: TicTacToe.Console.get_prompt/0
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:25: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{}
+10:57:35.816 [info] The console started.
+10:57:35.816 [debug] state: %{}
+10:57:35.823 [error] GenServer TicTacToe.Console terminating
+** (UndefinedFunctionError) function TicTacToe.Game.take_last_error/0 is undefined or private
+    (tic_tac_toe 0.1.0) TicTacToe.Game.take_last_error()
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:44: TicTacToe.Console.get_prompt/0
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:25: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{}
+10:57:35.823 [info] The console started.
+10:57:35.823 [debug] state: %{}
+10:57:35.833 [error] GenServer TicTacToe.Console terminating
+** (UndefinedFunctionError) function TicTacToe.Game.take_last_error/0 is undefined or private
+    (tic_tac_toe 0.1.0) TicTacToe.Game.take_last_error()
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:44: TicTacToe.Console.get_prompt/0
+    (tic_tac_toe 0.1.0) lib/tic_tac_toe/console.ex:25: TicTacToe.Console.handle_info/2
+    (stdlib 3.15) gen_server.erl:695: :gen_server.try_dispatch/4
+    (stdlib 3.15) gen_server.erl:771: :gen_server.handle_msg/6
+    (stdlib 3.15) proc_lib.erl:226: :proc_lib.init_p_do_apply/3
+Last message: :process_command
+State: %{}
+10:57:35.834 [info] Application tic_tac_toe exited: shutdown
+10:58:07.695 [info] The game agent started.
+10:58:07.698 [info] The console started.
+10:58:07.704 [debug] state: %{}
+11:02:19.909 [info] The game agent started.
+11:02:19.914 [info] The console started.
+11:02:19.921 [debug] state: %{}
+11:11:29.501 [info] The game agent started.
+11:11:29.505 [info] The console started.
+11:11:29.512 [debug] state: %{}
+11:13:21.648 [info] The game agent started.
+11:13:21.652 [info] The console started.
+11:13:21.658 [debug] state: %{}
+11:18:40.783 [info] The game agent started.
+11:18:40.789 [info] The console started.
+11:18:40.796 [debug] state: %{}
+11:19:12.636 [info] The game agent started.
+11:19:12.640 [info] The console started.
+11:19:12.646 [debug] state: %{}
+11:25:36.805 [info] The game agent started.
+11:25:36.809 [info] The console started.
+11:25:36.815 [debug] state: %{}
